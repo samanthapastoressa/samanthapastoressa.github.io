@@ -20,8 +20,9 @@ My name is Samantha Pastoressa and I am from New York City. I am a senior at Leh
 
 Tableau: Party Location Preferences
 
-Link:
-https://public.tableau.com/views/GenderLocation/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link   
+[Tableau Link](https://public.tableau.com/views/GenderLocation/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
+
+   
 
 
 
