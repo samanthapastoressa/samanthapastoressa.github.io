@@ -18,11 +18,11 @@ My name is Samantha Pastoressa and I am from New York City. I am a senior at Leh
 </script>
 
 
-[Virtual Tour of Battery Park City]
+**Virtual Tour of Battery Park City**
 <iframe width="100%" height="480px" src="https://poly.google.com/view/9_D3OrlbMU-/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
 
 
-[Social Media Data Visualization: Twitter USA Map]
+**Social Media Data Visualization: Twitter USA Map**
 <style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Twitter USA Map" src="//lu.maps.arcgis.com/apps/Embed/index.html?webmap=aeca5170f2054e7d8b44179ffe25ca07&extent=-111.4701,28.0533,-62.9545,51.6322&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light"></iframe></div>
 
 
