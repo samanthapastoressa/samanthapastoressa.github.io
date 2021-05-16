@@ -24,6 +24,8 @@ My name is Samantha Pastoressa and I am from New York City. I am a senior at Leh
 
 ## Virtual Tour of Battery Park City
 
+#### I grew up in Battery Park City, a small neighborhood in downtown Manhattan. For this project, I highlighted certain parts of my neighborhood that help define my childhood. This includes the marina, the fields, my apartment, and more.
+
 <iframe width="100%" height="480px" src="https://poly.google.com/view/9_D3OrlbMU-/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
 
 
@@ -42,8 +44,17 @@ My name is Samantha Pastoressa and I am from New York City. I am a senior at Leh
 
 [Tableau Link](https://public.tableau.com/views/GenderLocation/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
 
+#### Since Lehigh is known to be party school, it was interesting to get a deeper understanding of Lehigh students' party preferences. Using form responses, it was discovered that females tend to prefer partying in off campus houses while males prefer to party in fraternity houses on the hill. Moreover, students engaged in greek life tend to have a preference for fraternity houses on the hill while athletes and students not involved in greek life or athletics prefer to party at off campus houses.  
+
 <div class='tableauPlaceholder' id='viz1618339839629' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ge&#47;GenderLocation&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='GenderLocation&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ge&#47;GenderLocation&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1618339839629'); var vizElement = divElement.getElementsByTagName('object')[0]; if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='1027px';}   var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';              vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
 
+
+
+
+## Interactive Maps 
+
+#### Source: Federal Higher Education Dataset
+#### For this project, a number of different factors regarding colleges and universities were explored. This included comparing the admission totals to the location of the college, comparing ACT scores to the percent admitted, and looking at tuition through the map. For the ACT and Percent Admitted map, green circles indicated a higher percentage of admission while red circles indicated a lower one. Similarly, for the Tuition map, blue circles indicated a lower percentage of admission while red circles indicated a higher percentage.
 
 
 <div class='tableauPlaceholder' id='viz1618779218856' style='position: relative'><noscript><a href='#'><img alt='Map of American Universities ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_16187787664180&#47;Story1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Book1_16187787664180&#47;Story1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_16187787664180&#47;Story1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1618779218856'); var vizElement = divElement.getElementsByTagName('object')[0]; vizElement.style.width='1016px';vizElement.style.height='991px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
